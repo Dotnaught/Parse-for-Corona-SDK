@@ -1,1 +1,3 @@
 This project demonstrates how to create a Corona SDK mobile app that communicates with Parse, https://www.parse.com.
+
+You will need a Parse REST API Key and Parse Application ID, which must be added to the parse.lua file.
